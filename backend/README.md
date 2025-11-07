@@ -219,10 +219,10 @@ curl -X POST http://localhost:5001/api/checkout \
 
 ### Environment Variables
 ```env
-NODE_ENV=production
-PORT=5001
-MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/ecom
-FRONTEND_URL=https://your-frontend-domain.com
+NODE_ENV
+PORT
+MONGODB_URI
+FRONTEND_URL
 ```
 
 ### Deployment Checklist
